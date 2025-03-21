@@ -18,5 +18,7 @@ Data visualization tools (e.g., Charts, Conditional Formatting)
 PivotTables and PivotCharts
 
 Learning Resources:
+
 turtorial:  https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg
+
 Document: https://www.analystbuilder.com
